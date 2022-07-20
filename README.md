@@ -1,1 +1,1 @@
-# Hypar-Revit-Installers are in the Releases of this repo
+# Hypar Revit addin installers are in the Releases of this repo
